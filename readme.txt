@@ -1,0 +1,5 @@
+今天是我学习使用git的
+Today is my first day to learn Git
+
+Git is a distributed version control system.
+Git is free software.
